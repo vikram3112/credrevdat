@@ -1,0 +1,52 @@
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:16 opening browser
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:18 Opening URL 
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test123
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:38 Testcase is passed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in1
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test123
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test1234
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser10@credence.in1
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test1234
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test123
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:38 Testcase is passed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in1
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test123
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test1234
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser10@credence.in1
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test1234
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test123
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:38 Testcase is passed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in1
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test123
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser101@credence.in
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test1234
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->TestUser10@credence.in1
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:31 Entering Password ->Test1234
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:27 ------Opening URL Link---------
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:29 Entering Email ->None

@@ -1,0 +1,1 @@
+{"f2b770701b331b0ea13f409b625ea65c":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"3355ed510bfe943","reportUrl":"http://localhost:8081/job/credJanPro/9/allure/#testresult/3355ed510bfe943","status":"passed","time":{"start":1705144826653,"stop":1705145049381,"duration":222728}}]}}

@@ -1,0 +1,14 @@
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:16 opening browser
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:18 Opening URL 
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:38 Testcase is passed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:38 Testcase is passed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:38 Testcase is passed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
+INFO     Test_User_Profile_DDT:test_UserProfile_DDT.py:71 testcase failed
